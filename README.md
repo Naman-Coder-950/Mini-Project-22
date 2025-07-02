@@ -1,0 +1,2 @@
+# Mini-Project-22
+Cosine Similarity
